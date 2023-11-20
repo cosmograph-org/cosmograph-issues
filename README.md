@@ -35,6 +35,7 @@ While this is an issues-only repository, contributions in the form of detailed i
 ## Contact
 
 👩‍🚀 We also have a [Discord channel](https://discord.gg/PphDDbVk) where you can ask questions about Cosmograph.
+
 ✉️ For urgent matters not suitable for public discussion, contact us at [issues@cosmograph.app](mailto:issues@cosmograph.app).
 
 Thank you for helping improve Cosmograph!
